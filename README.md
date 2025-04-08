@@ -4,7 +4,7 @@ This repository outlines Object Oriented Programming (OOP) concepts using python
 
 This has been achieved by simulating a Simple Smart Libary where functions like adding different types of books, borrowing, returning the books and rating have been implemented in python. The repository aims to explain OOP concepts in python using a project-based approach.
 
-**HOW TO RUN**
+# **HOW TO RUN**
 
 install python
 
